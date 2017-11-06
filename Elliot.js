@@ -7,3 +7,7 @@ while(num<10){
   console.log(num);
   num++;
 }
+
+if(num==10){
+  alert("Esta es la modificación final de mi trabajo en js");
+}
